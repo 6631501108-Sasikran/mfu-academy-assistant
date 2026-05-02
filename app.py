@@ -65,7 +65,7 @@ class HFAPILLM(LLM):
 
 # --- UI Setup ---
 st.set_page_config(page_title="MFU Academy Assistant", layout="centered")
-st.title("🎓 MFU Academy Course Assistant")
+st.title("🎓 BDA_Project2_Group4 ")
 st.markdown("""
 สอบถามข้อมูลคอร์สเรียน MFU Academy ได้ที่นี่ครับ <br>
 **Group member:**
